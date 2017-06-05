@@ -10,5 +10,5 @@ public class Boletin25variante {
         Ventana obx= new Ventana();
         obx.setVisible(true);
     }
-    
+     
 }
